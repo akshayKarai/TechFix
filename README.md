@@ -10,7 +10,7 @@
 #### To Install Pug into your project: 
 - npm install pug --save
 - Set up your view engine: app.set(‘view engine’, ‘pug’)
-- Create a .pug file
+- Create a .pug file instead of .ejs
 
 #### To install Nodemailer into your project:
 - npm install nodemailer@2.7.2
