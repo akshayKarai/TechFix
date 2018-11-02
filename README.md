@@ -13,12 +13,14 @@
 - Create a .pug file instead of .ejs
 
 #### To install Nodemailer into your project:
+```
 - npm install nodemailer@2.7.2
-
+```
 You can check more about Nodemailer [here](https://community.nodemailer.com/)
 
 #### To run the app
+```
 - npn install 
 - npm start
-
+```
 
