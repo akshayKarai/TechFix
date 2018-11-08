@@ -9,9 +9,11 @@
 #### More About Node.js [here](https://nodejs.org/en/)
 
 #### To Install Pug into your project: 
+```
 - npm install pug --save
 - Set up your view engine: app.set(‘view engine’, ‘pug’)
 - Create a .pug file instead of .ejs
+```
 
 #### To install Nodemailer into your project:
 ```
