@@ -6,6 +6,7 @@
  - User-interface has been designed using bootstrap, css and javascript
  - App uses Jade/Pug, which is a template engine for Nodejs. Advantage of using Pug is that, it brings down the line of code to minimal when compared to EJS.
 
+#### More About Node.js [here](https://nodejs.org/en/)
 
 #### To Install Pug into your project: 
 - npm install pug --save
