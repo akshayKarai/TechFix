@@ -23,7 +23,7 @@ You can check more about Nodemailer [here](https://community.nodemailer.com/)
 
 #### To run the app
 ```
-- npn install 
+- npm install 
 - npm start
 ```
 
